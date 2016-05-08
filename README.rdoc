@@ -1,0 +1,25 @@
+Esse projeto foi desenvolvido na lingaguem JAVA e faz-se necesserio dos seguintes requisitos para executar:
+
+- JAVA EE (Enterprise Edition) instalado.
+
+Utilização da aplicação: 
+
+- Fazer o download do projeto (via download do zip ou clone do projeto); 
+- Em caso do ZIP, eh necessaria a extracao da pasta para algum diretorio local;
+- Por conseguinte, via terminal, acesse a pasta onde encontra-se os diretorios e os arquivos aqui disponibilizados;
+- Ao chegar na pasta, execute o seguinte comando: java -jar ArvoreBinariaBusca.jar
+- Siga as instruções que irão aparecer na tela.
+
+ATENÇAO - Especificacao dos arquivos de texto de entrada.
+
+. Arquivo contendo a lista de inteiros: Para o funcionamento do programa, faz-se necessario esse arquivo.
+ No ato da execução ele ira solicitar o seu upload. A estrutura desse arquivo devera ser uma lista de numeros
+ inteiros na mesma linha separados por espaco.
+. Arquivo contendo a lista de instrucoes: A estrutura devera ter o nome da instrucao em caixa-alta, em caso de parametro, 
+separar a instrucao do parametro com um espaco. Em caso de multiplas instrucoes, separar as instrucoes com um quebra de linha.
+. Em caso de duvida, seguem dois arquivos como exemplos no projeto, são eles inteiros.txt e instrucoes.txt, respectivamente.  
+
+Para mais informações e entendimentos dessa aplicacao, segue tambem o arquivo de solicitacao do programa, feito pela professora 
+Silvia, responsavel pela disciplina de Estrutura de dados II do IMD/UFRN.
+
+
