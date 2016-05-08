@@ -12,8 +12,7 @@ Utilização da aplicação:
 
 ATENÇAO - Especificacao dos arquivos de texto de entrada.
 
-. Arquivo contendo a lista de inteiros: Para o funcionamento do programa, faz-se necessario esse arquivo.
- No ato da execução ele ira solicitar o seu upload. A estrutura desse arquivo devera ser uma lista de numeros
+. Arquivo contendo a lista de inteiros: Para o funcionamento do programa, faz-se necessario esse arquivo. No ato da execução ele ira solicitar o seu upload. A estrutura desse arquivo devera ser uma lista de numeros
  inteiros na mesma linha separados por espaco.
 . Arquivo contendo a lista de instrucoes: A estrutura devera ter o nome da instrucao em caixa-alta, em caso de parametro, 
 separar a instrucao do parametro com um espaco. Em caso de multiplas instrucoes, separar as instrucoes com um quebra de linha.
